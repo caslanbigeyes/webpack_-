@@ -10,6 +10,7 @@ export default function (n, isPrime) {
         createCenter(n, color)
     }
     $('#divContainer').append(span)
+    createCenter(n, color)
 }
 
 
